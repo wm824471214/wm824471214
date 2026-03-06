@@ -10,8 +10,8 @@ I'm **wm824471214**, focusing on Web Development & SEO Practices.
 
 ## My Content & Projects
 
-- 🌐 Personal site: [https://www.spiez.com/karte?d=820189317731](https://www.spiez.com/karte?d=820189317731)
-- 📝 Technical blog: [https://www.spiez.com/karte?d=820189317731/blog](https://www.spiez.com/karte?d=820189317731/blog)
+- 🌐 Personal site: [https://p.rcj.org/home?h=home](https://p.rcj.org/home?h=home)
+- 📝 Technical blog: [https://p.rcj.org/home?h=home/blog](https://p.rcj.org/home?h=home/blog)
 - 🔧 Open‑source tools and scripts: see the repositories under this account
 
 ## Recent Thoughts
